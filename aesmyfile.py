@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 import pyAesCrypt
-import pyfiglet
 import sys
 from argparse import ArgumentParser
 class Aesmyfile:
